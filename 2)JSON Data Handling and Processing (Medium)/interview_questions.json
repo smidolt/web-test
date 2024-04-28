@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris",
+      "difficulty_level": "Beginner",
+      "tags": ["Geography"]
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter",
+      "difficulty_level": "Intermediate",
+      "tags": ["Astronomy", "Space"]
+    },
+    {
+      "question": "What is the formula for calculating the area of a circle?",
+      "answer": "πr^2",
+      "difficulty_level": "Advanced",
+      "tags": ["Mathematics", "Geometry"]
+    },
+    {
+      "question": "What is Python?",
+      "answer": "Python is a high-level programming language...",
+      "difficulty_level": "Beginner",
+      "tags": ["Python", "Programming"]
+    },
+    {
+      "question": "What is recursion?",
+      "answer": "Recursion is a programming technique...",
+      "difficulty_level": "Beginner",
+      "tags": ["Algorithms", "Programming"]
+    },
+    {
+      "question": "What is a linked list?",
+      "answer": "A linked list is a data structure...",
+      "difficulty_level": "Beginner",
+      "tags": ["Data Structures", "Algorithms"]
+    },
+    {
+      "question": "What is a database?",
+      "answer": "A database is an organized collection...",
+      "difficulty_level": "Advanced",
+      "tags": ["Databases", "SQL"]
+    },
+    {
+      "question": "What is object-oriented programming?",
+      "answer": "Object-oriented programming is a programming paradigm...",
+      "difficulty_level": "Intermediate",
+      "tags": ["Programming", "OOP"]
+    },
+    {
+      "question": "What is the difference between a list and a tuple in Python?",
+      "answer": "A list is mutable, while a tuple is immutable...",
+      "difficulty_level": "Intermediate",
+      "tags": ["Python", "Data Structures"]
+    },
+    {
+      "question": "What is the time complexity of binary search?",
+      "answer": "The time complexity of binary search is O(log n)...",
+      "difficulty_level": "Intermediate",
+      "tags": ["Algorithms", "Searching"]
+    },
+    {
+      "question": "What is the difference between SQL and NoSQL databases?",
+      "answer": "SQL databases are relational, while NoSQL databases are non-relational...",
+      "difficulty_level": "Advanced",
+      "tags": ["Databases", "SQL", "NoSQL"]
+    },
+    {
+      "question": "What is the difference between a stack and a queue?",
+      "answer": "A stack is LIFO, while a queue is FIFO...",
+      "difficulty_level": "Intermediate",
+      "tags": ["Data Structures"]
+    },
+    {
+      "question": "What is the difference between a shallow copy and a deep copy in Python?",
+      "answer": "A shallow copy creates a new object that references the original object...",
+      "difficulty_level": "Intermediate",
+      "tags": ["Python", "Programming"]
+    }
+  ]
+}

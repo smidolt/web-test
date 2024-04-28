@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Profile</title>
+</head>
+<body>
+    <h1>User Profile</h1>
+    <p>Nickname: {{ user.username }}</p>
+    <p>Role: {{ user.role }}</p>
+    <p>Level: {{ user.experience_level }}</p>
+
+    <h2>Questions:</h2>
+    {% for question in questions %}
+    <p>{{ question.question }}</p>
+    {% endfor %}
+</body>
+</html>

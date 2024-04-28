@@ -1,0 +1,22 @@
+{
+    "questions": [
+        {
+            "question": "What is Python?",
+            "answer": "Python is a high-level programming language...",
+            "difficulty_level": "Beginner",
+            "tags": [
+                "Python",
+                "Programming"
+            ]
+        },
+        {
+            "question": "What is recursion?",
+            "answer": "Recursion is a programming technique...",
+            "difficulty_level": "Beginner",
+            "tags": [
+                "Algorithms",
+                "Programming"
+            ]
+        }
+    ]
+}
